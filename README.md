@@ -1,6 +1,6 @@
-# serv-rest-api 👾
+# Teste de API Rest👾
 
-Criação de testes de API REST utilizando postman, newman e newman-htmlextra
+Criação de testes de API Rest utilizando postman, newman e newman-htmlextra
 
 ## Tecnologia utilizadas
 
