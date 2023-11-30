@@ -51,4 +51,4 @@ Se você optou por rodar os testes com o report htmlextra, você gerou um arquiv
 ## Entrar em contato
 
 - Email: jonas.victor@dcx.ufpb.br
-- Linkedin: [Jonas Victor](linkedin.com/in/jonas-victor)
+- Linkedin: [Jonas Victor](https://www.linkedin.com/in/jonas-victor/)
